@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(120, 40, 60, 0.6);
+}
+h1{
+    color:green;
+    left:300px;
+    position: absolute;
+}
+.p1{
+    top:100px;
+    left: 40px;
+    position: absolute;
+}
+.p2{
+    font-size: 30px;
+    color: green;
+    font-family:sans-serif;
+    top: 200px;
+    position: absolute;
+    left: 40px;
+}
+ul{
+    top:260px;
+    position: absolute;
+    left: 40px;
+}
+.img{
+    left: 30px;
+    position: absolute;
+}
+img{
+    height: 90px;
+    width: 100px;
+    border-radius: 50%;
+}
+.p3{
+    top:380px;
+    position: absolute;
+    left: 30px;
+}
+.a1{
+    top:380px;
+    position: absolute;
+    left: 400px;
+    border: solid;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+.a1:hover{
+    background-color: green;
+    color: white;
+}

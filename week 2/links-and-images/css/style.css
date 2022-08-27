@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    left: 50px;
+    font-size: 30px;
+    top:120px;
+    position: relative;
+    margin: 30px;
+}
+a:hover{
+    color:purple;
+}
+img{
+    top: 150px;
+    width: 100%;
+    position: relative;
+    height: 550px;
+}

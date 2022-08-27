@@ -1,0 +1,48 @@
+body{
+    margin:0px;
+}
+h1{
+    color: blue;
+}
+.first{
+    background-color: hsl(0, 100%, 50%);
+    display: flex;
+}
+h2{
+    color:#ffffffff
+}
+.second{
+    background-color: rgb(0,0,0);
+    display: flex;
+}
+h3{
+    color:coral
+}
+.third{
+    background-color: #DFFF00;
+    display: flex;
+}
+h4{
+    color: green;
+}
+.fourth{
+    background-color:rgb(20,600,120); 
+    display: flex;
+}
+a{
+    margin: 20px;
+    font-size:20px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    left: 300px;
+    position: relative;
+}
+a:hover{
+    color: purple;
+}
+.links{
+    top: 0px;
+    position: relative;
+    height: 80px;
+}

@@ -1,0 +1,32 @@
+body{
+    background-image: url(image1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.name{
+    left: 400px;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+}
+.week{
+    left: 500px;
+    top: 100px;
+    position: relative;
+    color: white;
+}
+.links{
+    top: 120px;
+    left: 350px;
+    position: relative;
+}
+a{
+    margin: 20px;
+    font-size:20px;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: purple;
+}
